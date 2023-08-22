@@ -6,7 +6,7 @@ from PyQt5.QtWidgets import *
 
 import resources_rc
 
-__appname__ = 'RianUtilityAI'
+__appname__ = 'UtilityAI'
 
 class MainWindow(QMainWindow):
     def __init__(self):
